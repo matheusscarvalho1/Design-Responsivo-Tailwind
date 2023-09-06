@@ -1,6 +1,6 @@
-# React + Vite
+# PROJETO DESIGN RESPONSIVO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito em React.JS + Vite (ainda em desenvolvimento) baseado em um outro projeto antigo feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório - https://github.com/matheusscarvalho1/Design-Responsivo)
 
 Currently, two official plugins are available:
 
