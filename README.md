@@ -9,7 +9,7 @@ Este projeto foi desenvolvido com o objetivo principal de aprender e fixar conhe
 ## Tecnologias
 
 - Vite na versão 4.4.5
-- React na vesrão 18.2.7
+- React na versão 18.2.7
 - TailwindCSS na versão 3.3.3
 
 ## Pré requisitos
