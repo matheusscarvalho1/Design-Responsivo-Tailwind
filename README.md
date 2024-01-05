@@ -4,7 +4,7 @@ Projeto feito em React.JS + Vite (ainda em desenvolvimento) baseado em um outro 
 
 ## Finalidade do projeto
 
-Este projeto foi desenvolvido com o objetivo principal de aprender e fixar conhecimentos obtidos sobre como usar o framework CSS TailWind utilizando flexbox para deixar a página responsiva.
+Este projeto foi desenvolvido com o objetivo principal de aprender e fixar conhecimentos obtidos sobre como usar o framework TailwindCSS utilizando flexbox para deixar a página responsiva.
 
 ## Tecnologias
 
